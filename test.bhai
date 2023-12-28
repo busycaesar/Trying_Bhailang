@@ -1,0 +1,18 @@
+hi bhai
+
+    bhai ye hai a = 10;
+    bhai ye hai b = 15;
+    bhai ye hai me = nalla;
+    bhai ye hai i = 0;
+
+    agar bhai (a + b == 25){
+        bol bhai "Sahi Jawab";
+    }
+
+    jab tak bhai (i < 5){
+        bol bhai "Abhi to aur chalege!";
+        bol bhai i;
+        i += 1;
+    }
+
+bye bhai
